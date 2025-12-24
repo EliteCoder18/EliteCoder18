@@ -135,7 +135,7 @@ function buildFuture() public {
 
 [![GitHub](https://img.shields.io/badge/GitHub-EliteCoder18-22272e?style=for-the-badge&logo=github)](https://github.com/elitecoder18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishit%20Modi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishit-modi/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40elitecoder18-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/elitecoder18)
+
 
 </div>
 
