@@ -1,158 +1,102 @@
-<!-- ===== BLOCKCHAIN GENESIS HEADER ===== -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rishit%20Modi&fontSize=70&fontAlignY=35&desc=%F0%9F%93%A6%20Mining%20Code%20%7C%20%F0%9F%94%97%20Building%20Chains%20%7C%20%F0%9F%9A%80%20Scaling%20Systems&descAlignY=58&color=0:0f172a,50:1e293b,100:0f172a&fontColor=38bdf8&animation=fadeIn"
-    width="100%"
-  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=800&pause=0&color=F7931A&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E_ cargo+run+--release+--bin+explorer;%3E_ Compiling+blockchain_knowledge...;%3E_ Syncing_headers...+[██░░░░];%3E_ STATUS:+EXPLORING_THE_CHAIN." alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- ===== TYPING EFFECT ===== -->
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=38bdf8&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Welcome+to+the+Blockchain;Elite+Coder+%7C+Consensus+Builder;Crafting+Rust+%26+Web3+Systems;Proving+Blocks%2C+Not+Words;Mining+Knowledge%2C+Building+Solutions"
-  />
+<pre style="font-family: monospace; color: #F7931A; background-color: #0d1117; font-weight: bold; line-height: 14px;">
+      █▀▀▀▀▀█ ▀▀▀█▀█▀ █▀▀▀▀▀█
+      █ ███ █ █ █ █▀▀ █ ███ █
+      █ ▀▀▀ █ █▄█▄██▄ █ ▀▀▀ █
+      ▀▀▀▀▀▀▀ ▀ ▀ ▀ ▀ ▀▀▀▀▀▀▀
+   >> BLOCK_HEIGHT: 2026
+   >> DIFFICULTY:   EXTREME
+   >> MINER:        RISHIT_MODI
+</pre>
 </div>
 
----
+<table width="100%" style="border: 2px solid #333; background-color: #0d0d0d;">
+<tr>
+<td width="60%" valign="top" style="border-right: 2px solid #333; padding: 20px;">
 
-## ⚡ The Genesis Block
+### 🦀 <span style="color: #F7931A">SOURCE_CODE.rs</span>
 
-I architect systems where **cryptographic proofs matter**, **state consistency is law**, and **decentralization is freedom**.  
-**Left screen:** Rust & blockchain protocols | **Right screen:** Unraveling how trustless systems achieve consensus
-
-```bash
-// My Developer DNA
-const EliteBuilder = {
-  focus: ["Blockchain Internals", "Rust Systems", "Web3 Infrastructure"],
-  philosophy: "Understand consensus → Optimize state → Scale the chain",
-  mission: "Build secure, verifiable, and elegant protocols"
+<pre style="background-color: #000;">
+<code style="color: #bbb; font-family: 'Fira Code', monospace;">
+<span style="color: #F7931A;">struct</span> <span style="color: #ffcc00;">BlockchainExplorer</span> {
+    <span style="color: #F7931A;">focus</span>: <span style="color: #9cdcfe;">String</span>,
+    <span style="color: #F7931A;">stack</span>: <span style="color: #9cdcfe;">Vec</span><&apos;static str>,
+    <span style="color: #F7931A;">status</span>: <span style="color: #9cdcfe;">SyncState</span>,
 }
-```
 
----
-
-## 🧱 The Block Stack (Technologies)
-
-<div align="center">
-
-**Core Layer**
-<img src="https://skillicons.dev/icons?i=rust,cpp,go&theme=dark" height="50" />
-
-**Smart Contract & Web3**
-<img src="https://skillicons.dev/icons?i=solidity,js,ts&theme=dark" height="50" />
-
-**Backend Infrastructure**
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql&theme=dark" height="50" />
-
-**Frontend & Visualization**
-<img src="https://skillicons.dev/icons?i=react,tailwind,threejs&theme=dark" height="50" />
-
-**DevOps & Tooling**
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" height="50" />
-
-</div>
-
----
-
-## 🔐 Blockchain Node Status
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════╗
-║   ⛓️  NODE ACTIVE - BLOCK HEIGHT 2025 ║
-╠═══════════════════════════════════════╣
-║  🦀 Rust      ████████████░  85%      ║
-║  📜 Solidity  ███████░░░░░  70%       ║
-║  🟨 JS/TS     ██████████░░  80%       ║
-║  🔵 Go        ██████░░░░░░  60%       ║
-╠═══════════════════════════════════════╣
-║  Status: 🟢 MINING | Gas: ⚡ LOW     ║
-╚═══════════════════════════════════════╝
-```
-
-**🔗 View Chain:** [@EliteCoder18](https://github.com/EliteCoder18)
-
-</div>
-
----
-
-## 🔗 Protocol Layers
-
-<div align="center">
-
-```
-     L3: dApps & UI    →  React | TailwindCSS | Web3.js
-            ↓
-     L2: Smart Logic   →  Solidity | Ethers | Hardhat  
-            ↓
-     L1: Core Systems  →  Rust | C++ | Node Design
-            ↓
-     L0: Cryptography  →  Hashing | Signatures | ZK
-```
-
-</div>
-
----
-
-## 💡 Builder's Philosophy
-
-<div align="center">
-
-> **"Understand the block. Verify the hash. Extend the chain. Scale with grace."**
-
-```
-┌─────────────────────────────────────┐
-│  🔐 Trust through Code              │
-│  📈 Measure in Throughput           │
-│  🎯 Aim for Finality                │
-│  🚀 Scale with Elegance             │
-│  🔬 Build, Test, Prove              │
-└─────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 📡 Active Transactions
-
-```solidity
-// Current focus areas
-function buildFuture() public {
-  mineKnowledge("Zero-Knowledge Proofs");
-  optimizeLayer(2, "Scaling Solutions");
-  contribute("Open Source Protocols");
-  secure("Smart Contract Auditing");
+<span style="color: #F7931A;">impl</span> <span style="color: #ffcc00;">Explorer</span> {
+    <span style="color: #F7931A;">fn</span> <span style="color: #ffcc00;">new</span>() -> <span style="color: #F7931A;">Self</span> {
+        <span style="color: #F7931A;">Self</span> {
+            focus: <span style="color: #9cdcfe;">"Decentralization"</span>.<span style="color: #ffcc00;">to_string</span>(),
+            stack: <span style="color: #F7931A;">vec!</span>[<span style="color: #9cdcfe;">"Rust"</span>, <span style="color: #9cdcfe;">"Wasm"</span>, <span style="color: #9cdcfe;">"Solidity"</span>],
+            <span style="color: #6A9955;">// Still downloading the full chain...</span>
+            status: <span style="color: #F7931A;">SyncState</span>::Exploring, 
+        }
+    }
 }
-```
+</code>
+</pre>
 
----
+</td>
+<td width="40%" valign="top" style="padding: 20px;">
 
-## 📡 Connect on the Network
+### 📦 <span style="color: #F7931A">Cargo.toml</span>
 
-<div align="center">
+<pre style="background-color: #000; font-family: 'Courier New'; font-size: 13px; color: #ccc;">
+[package]
+name = "rishit_modi"
+version = "0.1.0"
+edition = "2021"
 
-[![GitHub](https://img.shields.io/badge/GitHub-EliteCoder18-22272e?style=for-the-badge&logo=github)](https://github.com/elitecoder18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishit%20Modi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishit-modi/)
+[dependencies]
+<span style="color: #F7931A;">rust</span> = { version = "1.75", features = ["unsafe"] }
+<span style="color: #F7931A;">bitcoin</span> = "0.30"
+<span style="color: #F7931A;">web3</span> = "0.18"
+<span style="color: #F7931A;">tokio</span> = { version = "1.0", features = ["full"] }
 
+[dev-dependencies]
+<span style="color: #6A9955;"># Learning in progress...</span>
+zk_snarks = "exploring"
+smart_contracts = "testing"
+</pre>
 
-</div>
+</td>
+</tr>
+</table>
 
----
-
-<!-- ===== CLOSING FRAME ===== -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&color=0:0f172a,100:1e293b&text=Keep%20Mining%20%7C%20Stay%20Curious&fontColor=38bdf8&fontSize=22"
-    width="100%"
-  />
+<div align="center" style="margin-top: 20px; border: 1px dashed #555; padding: 10px;">
   
-  <p>
-    <img src="https://img.shields.io/badge/Status-Always%20Building-38bdf8?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-Blockchain%20%26%20Rust-22d3ee?style=flat-square" />
+  <h3 style="color: #F7931A; margin-bottom: 5px;">:: MEMORY_ALLOCATION (Languages) ::</h3>
+  
+  <p style="font-family: monospace; font-weight: bold; color: #fff;">
+    RUST &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F7931A;">[████████████░░░]</span> 80% (Safe)<br/>
+    SOLIDITY &nbsp; <span style="color: #F7931A;">[████████░░░░░░░]</span> 55% (Gasy)<br/>
+    JS/TS &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F7931A;">[██████████████░]</span> 90% (Legacy)<br/>
   </p>
-  
-  <sub>Generated with 🔥 by a blockchain enthusiast | Last updated: 2025</sub>
+
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliteCoder18&bg_color=0d1117&color=F7931A&line=F7931A&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <br/>
+  <code style="color: #555;">-----BEGIN HASH SIGNATURE-----</code><br/>
+  
+  <a href="https://github.com/elitecoder18">
+    <img src="https://img.shields.io/badge/git_commit-GITHUB-black?style=flat-square&logo=github&logoColor=F7931A&color=1a1a1a" />
+  </a>
+  <a href="https://linkedin.com/in/rishit-modi">
+    <img src="https://img.shields.io/badge/p2p_connect-LINKEDIN-black?style=flat-square&logo=linkedin&logoColor=0A66C2&color=1a1a1a" />
+  </a>
+
+  <br/>
+  <code style="color: #555;">0x7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</code>
+</div>
