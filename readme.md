@@ -1,8 +1,9 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=800&pause=0&color=F7931A&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E_ cargo+run+--release+--bin+explorer;%3E_ Compiling+blockchain_knowledge...;%3E_ Syncing_headers...+[██░░░░];%3E_ STATUS:+EXPLORING_THE_CHAIN." alt="Typing SVG" />
-  </a>
-</div>
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=F7931A&center=true&vCenter=true&width=800&lines=%3E_+cargo+run+--release+--bin+explorer;%3E_+Compiling+blockchain_knowledge...;%3E_+STATUS:+EXPLORING_THE_CHAIN.)](https://git.io/typing-svg)
+
+</p>
 
 <div align="center">
 <pre style="font-family: monospace; color: #F7931A; background-color: #0d1117; font-weight: bold; line-height: 14px;">
