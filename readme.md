@@ -53,7 +53,7 @@
 [package]
 name = "rishit_modi"
 version = "0.1.0"
-edition = "2021"
+edition = "2006"
 
 [dependencies]
 <span style="color: #F7931A;">rust</span> = { version = "1.75", features = ["unsafe"] }
