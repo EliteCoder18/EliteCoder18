@@ -4,15 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=F7931A&center=true&vCenter=true&width=800&lines=%3E_+cargo+run+--release+--bin+explorer;%3E_+Compiling+blockchain_knowledge...;%3E_+STATUS:+EXPLORING_THE_CHAIN.)](https://git.io/typing-svg)
 
 </p>
-<div>
+<div align="center">
 <pre style="font-family: monospace; color: #F7931A; background-color: #0d1117; font-weight: bold; line-height: 14px;">
-                                                                        █▀▀▀▀▀█ ▀▀▀█▀█▀ █▀▀▀▀▀█
-                                                                        █ ███ █ █ █ █▀▀ █ ███ █
-                                                                        █ ▀▀▀ █ █▄█▄██▄ █ ▀▀▀ █
-                                                                        ▀▀▀▀▀▀▀ ▀ ▀ ▀ ▀ ▀▀▀▀▀▀▀
-                                                                     >> BLOCK_HEIGHT: 2026
-                                                                     >> DIFFICULTY:   EXTREME
-                                                                     >> MINER:        RISHIT_MODI
+█▀▀▀▀▀█ ▀▀▀█▀█▀ █▀▀▀▀▀█
+█ ███ █ █ █ █▀▀ █ ███ █
+█ ▀▀▀ █ █▄█▄██▄ █ ▀▀▀ █
+▀▀▀▀▀▀▀ ▀ ▀ ▀ ▀ ▀▀▀▀▀▀▀
+>> BLOCK_HEIGHT: 2026
+>> DIFFICULTY:   EXTREME
+>> MINER:        RISHIT_MODI
 </pre>
 </div>
 
