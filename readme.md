@@ -5,15 +5,14 @@
 
 </p>
 
-<div align="center">
 <pre style="font-family: monospace; color: #F7931A; background-color: #0d1117; font-weight: bold; line-height: 14px;">
-      █▀▀▀▀▀█ ▀▀▀█▀█▀ █▀▀▀▀▀█
-      █ ███ █ █ █ █▀▀ █ ███ █
-      █ ▀▀▀ █ █▄█▄██▄ █ ▀▀▀ █
-      ▀▀▀▀▀▀▀ ▀ ▀ ▀ ▀ ▀▀▀▀▀▀▀
-   >> BLOCK_HEIGHT: 2026
-   >> DIFFICULTY:   EXTREME
-   >> MINER:        RISHIT_MODI
+                                                                        █▀▀▀▀▀█ ▀▀▀█▀█▀ █▀▀▀▀▀█
+                                                                        █ ███ █ █ █ █▀▀ █ ███ █
+                                                                        █ ▀▀▀ █ █▄█▄██▄ █ ▀▀▀ █
+                                                                        ▀▀▀▀▀▀▀ ▀ ▀ ▀ ▀ ▀▀▀▀▀▀▀
+                                                                     >> BLOCK_HEIGHT: 2026
+                                                                     >> DIFFICULTY:   EXTREME
+                                                                     >> MINER:        RISHIT_MODI
 </pre>
 </div>
 
