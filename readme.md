@@ -12,7 +12,7 @@
  ▀▀▀▀▀▀▀ ▀ ▀ ▀ ▀ ▀▀▀▀▀▀▀
  >> BLOCK_HEIGHT:   2026
   >> DIFFICULTY:   EXTREME
-    >> MINER:      RISHIT_MODI
+  >> MINER:      RISHIT_MODI
 </pre>
 </div>
 
