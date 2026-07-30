@@ -75,9 +75,9 @@ smart_contracts = "testing"
   <h3 style="color: #F7931A; margin-bottom: 5px;">:: MEMORY_ALLOCATION (Languages) ::</h3>
   
   <p style="font-family: monospace; font-weight: bold; color: #fff;">
-    RUST &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F7931A;">[████████████░░░]</span> 80% (Safe)<br/>
+    RUST &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F7931A;">[██████████████░]</span> 90% (Safe)<br/>
     C++ &nbsp; <span style="color: #F7931A;">[████████░░░░░░░]</span> 55% (Gasy)<br/>
-    JS/TS &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F7931A;">[██████████████░]</span> 90% (Legacy)<br/>
+    JS/TS &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #F7931A;">[████████████░░░]</span> 80% (Legacy)<br/>
   </p>
 
 </div>
