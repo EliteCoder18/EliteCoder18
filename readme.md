@@ -98,5 +98,5 @@ smart_contracts = "testing"
   </a>
 
   <br/>
-  <code style="color: #555;">0x7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</code>
+  <code style="color: #555;">0x7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677283addd200126d9069</code>
 </div>
