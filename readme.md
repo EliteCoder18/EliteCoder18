@@ -82,9 +82,9 @@ smart_contracts = "testing"
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliteCoder18&bg_color=0d1117&color=F7931A&line=F7931A&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
+</div> -->
 
 <div align="center">
   <br/>
